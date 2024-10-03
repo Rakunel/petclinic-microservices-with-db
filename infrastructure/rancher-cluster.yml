@@ -9,6 +9,7 @@ nodes:
 
 # ignore_docker_version: true
 
+
 services:
   etcd:
     snapshot: true
